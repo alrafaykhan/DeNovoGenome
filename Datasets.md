@@ -56,7 +56,6 @@ ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR103/007/SRR1038047/SRR1038047.fastq.gz
 # Eukaryotic Datasets
 
 Homo sapiens: PAIRED-END		
-DRR002191
 ftp://ftp.sra.ebi.ac.uk/vol1/fastq/DRR002/DRR002191/DRR002191_1.fastq.gz
 ftp://ftp.sra.ebi.ac.uk/vol1/fastq/DRR002/DRR002191/DRR002191_2.fastq.gz
 
