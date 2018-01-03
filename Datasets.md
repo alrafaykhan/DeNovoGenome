@@ -51,3 +51,41 @@ ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR159/002/ERR1596542/ERR1596542.fastq.gz
 
 15.	Chlamydia trachomatis: SINGLE-END	
 ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR103/007/SRR1038047/SRR1038047.fastq.gz	
+
+
+# Eukaryotic Datasets
+
+Homo sapiens: PAIRED-END		
+DRR002191
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/DRR002/DRR002191/DRR002191_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/DRR002/DRR002191/DRR002191_2.fastq.gz
+
+Drosophila melanogaster: PAIRED-END	
+DRR002191
+
+Arabidopsis thaliana: PAIRED-END		
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR122/004/ERR1224454/ERR1224454_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR122/004/ERR1224454/ERR1224454_2.fastq.gz
+
+Saccharomyces cerevisiae: PAIRED-END		
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR052/ERR052652/ERR052652_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR052/ERR052652/ERR052652_2.fastq.gz
+
+Fungi: PAIRED-END		
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR161/003/SRR1614243/SRR1614243_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR161/003/SRR1614243/SRR1614243_2.fastq.gz
+
+Homo sapiens: PAIRED-END		
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/DRR002/DRR002191/DRR002191_1.fastq.gz
+
+Drosophila melanogaster: PAIRED-END		
+DRR002191
+
+Arabidopsis thaliana: PAIRED-END		
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR122/004/ERR1224454/ERR1224454_1.fastq.gz
+
+Saccharomyces cerevisiae: PAIRED-END		
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR052/ERR052652/ERR052652_1.fastq.gz
+
+Fungi: PAIRED-END		
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR161/003/SRR1614243/SRR1614243_1.fastq.gz
